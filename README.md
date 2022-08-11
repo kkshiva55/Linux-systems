@@ -1,5 +1,5 @@
   
-      <<<<< ------  LINUX SYSTEMS ------ >>>>>
+<<<<< ------  LINUX SYSTEMS ------ >>>>>
 
 Assignment 1 --> Read 'n' and generate a pattern given below( number increments from left to right)
 
